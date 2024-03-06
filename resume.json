@@ -1,5 +1,5 @@
 {
-  "name": "Sa;eh Basalim",
+  "name": "Saleh Basalim",
   "email": "sbasalim@una.edu",
   "phone": "419-344-8629",
   "education": [
@@ -11,16 +11,16 @@
   ],
   "experience": [
     {
-      "position": "Data Science Intern",
-      "company": "nSide - The School Safety Platform",
-      "duration": "2021 - Present",
-      "description": "Developed web applications for process automation."
+      "position": "technical support",
+      "company": "Hyundai Motor",
+      "duration": "2008 - 2009",
+      "description": "Enable you to troubleshoot, diagnose, and resolve the customer's issue."
     },
     {
-      "position": "Student Reasearch Assistant",
-      "company": "Center for Sports Analytics - UNA",
-      "duration": "2022 - 2023",
-      "description": "Conducted statistical analysis on projects for UNA basketball and football teams"
+      "position": "Personnel Affairs Department ",
+      "company": "Saudi Arabian National Guard",
+      "duration": "2009 - 2020"
+      
     }
   ],
   "skills": [
@@ -28,7 +28,6 @@
     "Python",
     "Statistical Analysis",
     "Geospatial Application Development",
-    "API Creation",
     "Python Package Development",
     "Process Automation",
     "Web Scraping"
