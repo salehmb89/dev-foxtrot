@@ -4,32 +4,38 @@
   "phone": "419-344-8629",
   "education": [
     {
+      "degree": "Diploma in technical support",
+      "university": "Dammam College of Technology",
+      "year": "2008"
+    },
+    {
       "degree": "BBA - Computer Information Systems",
       "university": "University of North Alabama",
       "year": "2024"
     }
+
+    
   ],
   "experience": [
     {
       "position": "technical support",
       "company": "Hyundai Motor",
-      "duration": "2008 - 2009",
+      "duration": "2009 - 2009",
       "description": "Enable you to troubleshoot, diagnose, and resolve the customer's issue."
     },
     {
       "position": "Personnel Affairs Department ",
       "company": "Saudi Arabian National Guard",
       "duration": "2009 - 2020"
-      
     }
   ],
   "skills": [
     "Web Development",
     "Python",
     "Statistical Analysis",
-    "Geospatial Application Development",
-    "Python Package Development",
-    "Process Automation",
-    "Web Scraping"
+    "HTML",
+    "Java",
+    "Python Package Development"
+
   ]
 }
