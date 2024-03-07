@@ -33,7 +33,7 @@ $(document).ready(function() {
         html += '<h4>' + data.experience[j].position + '</h4>';
         html += '<p>' + data.experience[j].company + '</p>';
         html += '<p>' + data.experience[j].duration + '</p>';
-        html += '<p>' + data.experience[j].description + '</p>';
+       
         html += '</div>';
         }
         html += '<hr>';
