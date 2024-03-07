@@ -21,13 +21,11 @@ iframe {
 
 .image-container {
     position: relative;
-    overflow: hidden;
     width: 50%;
-    float: left;
 }
 
 .image-container img {
-    width: 80%;
+    width: 100%;
     height: auto;
 }
 
@@ -68,3 +66,28 @@ iframe {
     top: 700px;
     left: 1000px;
 }
+
+.image-text {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    background-color: rgba(34, 34, 34, 0.649);
+    border-radius: 5px;
+    padding: 8px;
+  }
+  
+.image-text h1 {
+    font-family: "Arial", sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+.image-text p {
+    font-family: "Arial", sans-serif;
+    font-size: 18px;
+    margin-bottom: 0;
+  }
