@@ -1,3 +1,13 @@
+body {
+  background-image: url("https://www.mixedinamerica.org/wp-content/uploads/2018/08/image-background-color-5.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: "Arial", sans-serif; /* You can customize the font family if needed */
+  margin: 0; /* Remove default body margin */
+  padding: 0; /* Remove default body padding */
+}
+
 #profile-pic {
     max-height: 40px;
     margin-right: 10px;
