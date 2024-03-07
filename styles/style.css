@@ -18,6 +18,11 @@ iframe {
 .resume-section {
     margin-left: 20px;
 }
+#resumeData {
+  /* background-color: #ca6666; */
+  background-image: url("https://png.pngtree.com/background/20210711/original/pngtree-my-resume-background-material-picture-image_1117680.jpg");
+  padding: 10px;
+}
 
 .image-container {
     position: relative;
