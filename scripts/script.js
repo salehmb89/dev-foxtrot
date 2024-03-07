@@ -12,6 +12,7 @@ $(document).ready(function() {
         html += '<div class="resume-section">';
         html += '<p>' + data.email + '</p>';
         html += '<p>' + data.phone + '</p>';
+        html += '<img src="' + data.qr_code + '" alt="QR Code">';
         html += '</div>';
         html += '<hr>';
 
